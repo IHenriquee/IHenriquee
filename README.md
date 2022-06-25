@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IHenriquee
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning JavaScript
+- 💞️ My language: pt-BR
+- 📫 My Discord: IHenriquee#8580
